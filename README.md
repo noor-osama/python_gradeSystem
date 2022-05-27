@@ -3,7 +3,6 @@
  ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
 a simple grading system . the system reads data from csv file then show welcome message and menu for options :
